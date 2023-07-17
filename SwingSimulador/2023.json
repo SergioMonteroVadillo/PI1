@@ -1,0 +1,3287 @@
+[
+  {
+    "nDia": 1,
+    "temperatura": 10,
+    "ICA": 25,
+    "viento": 9,
+    "humedad": 9,
+    "luminosidad": 35,
+    "precipitaciones": 8
+  },
+  {
+    "nDia": 2,
+    "temperatura": 5,
+    "ICA": 38,
+    "viento": 30,
+    "humedad": 39,
+    "luminosidad": 2,
+    "precipitaciones": 8
+  },
+  {
+    "nDia": 3,
+    "temperatura": 9,
+    "ICA": 33,
+    "viento": 5,
+    "humedad": 9,
+    "luminosidad": 18,
+    "precipitaciones": 13
+  },
+  {
+    "nDia": 4,
+    "temperatura": -4,
+    "ICA": 51,
+    "viento": 11,
+    "humedad": 39,
+    "luminosidad": 37,
+    "precipitaciones": 10
+  },
+  {
+    "nDia": 5,
+    "temperatura": -5,
+    "ICA": 53,
+    "viento": 16,
+    "humedad": 1,
+    "luminosidad": 26,
+    "precipitaciones": 15
+  },
+  {
+    "nDia": 6,
+    "temperatura": 8,
+    "ICA": 38,
+    "viento": 26,
+    "humedad": 11,
+    "luminosidad": 3,
+    "precipitaciones": 10
+  },
+  {
+    "nDia": 7,
+    "temperatura": 14,
+    "ICA": 28,
+    "viento": 22,
+    "humedad": 31,
+    "luminosidad": 29,
+    "precipitaciones": 6
+  },
+  {
+    "nDia": 8,
+    "temperatura": 1,
+    "ICA": 50,
+    "viento": 12,
+    "humedad": 6,
+    "luminosidad": 16,
+    "precipitaciones": 15
+  },
+  {
+    "nDia": 9,
+    "temperatura": 21,
+    "ICA": 48,
+    "viento": 8,
+    "humedad": 33,
+    "luminosidad": 32,
+    "precipitaciones": 15
+  },
+  {
+    "nDia": 10,
+    "temperatura": 25,
+    "ICA": 51,
+    "viento": 13,
+    "humedad": 31,
+    "luminosidad": 28,
+    "precipitaciones": 10
+  },
+  {
+    "nDia": 11,
+    "temperatura": 7,
+    "ICA": 45,
+    "viento": 6,
+    "humedad": 35,
+    "luminosidad": 26,
+    "precipitaciones": 4
+  },
+  {
+    "nDia": 12,
+    "temperatura": 1,
+    "ICA": 54,
+    "viento": 3,
+    "humedad": 9,
+    "luminosidad": 15,
+    "precipitaciones": 4
+  },
+  {
+    "nDia": 13,
+    "temperatura": 18,
+    "ICA": 57,
+    "viento": 18,
+    "humedad": 17,
+    "luminosidad": 14,
+    "precipitaciones": 14
+  },
+  {
+    "nDia": 14,
+    "temperatura": 19,
+    "ICA": 59,
+    "viento": 8,
+    "humedad": 2,
+    "luminosidad": 1,
+    "precipitaciones": 14
+  },
+  {
+    "nDia": 15,
+    "temperatura": 6,
+    "ICA": 32,
+    "viento": 25,
+    "humedad": 21,
+    "luminosidad": 19,
+    "precipitaciones": 10
+  },
+  {
+    "nDia": 16,
+    "temperatura": 6,
+    "ICA": 26,
+    "viento": 6,
+    "humedad": 15,
+    "luminosidad": 40,
+    "precipitaciones": 3
+  },
+  {
+    "nDia": 17,
+    "temperatura": -4,
+    "ICA": 55,
+    "viento": 7,
+    "humedad": 26,
+    "luminosidad": 32,
+    "precipitaciones": 9
+  },
+  {
+    "nDia": 18,
+    "temperatura": 13,
+    "ICA": 47,
+    "viento": 18,
+    "humedad": 12,
+    "luminosidad": 9,
+    "precipitaciones": 15
+  },
+  {
+    "nDia": 19,
+    "temperatura": -3,
+    "ICA": 46,
+    "viento": 21,
+    "humedad": 11,
+    "luminosidad": 34,
+    "precipitaciones": 12
+  },
+  {
+    "nDia": 20,
+    "temperatura": 24,
+    "ICA": 28,
+    "viento": 30,
+    "humedad": 36,
+    "luminosidad": 5,
+    "precipitaciones": 3
+  },
+  {
+    "nDia": 21,
+    "temperatura": -1,
+    "ICA": 44,
+    "viento": 10,
+    "humedad": 41,
+    "luminosidad": 13,
+    "precipitaciones": 3
+  },
+  {
+    "nDia": 22,
+    "temperatura": 3,
+    "ICA": 33,
+    "viento": 4,
+    "humedad": 23,
+    "luminosidad": 15,
+    "precipitaciones": 11
+  },
+  {
+    "nDia": 23,
+    "temperatura": -1,
+    "ICA": 23,
+    "viento": 16,
+    "humedad": 7,
+    "luminosidad": 27,
+    "precipitaciones": 12
+  },
+  {
+    "nDia": 24,
+    "temperatura": 0,
+    "ICA": 51,
+    "viento": 25,
+    "humedad": 21,
+    "luminosidad": 39,
+    "precipitaciones": 5
+  },
+  {
+    "nDia": 25,
+    "temperatura": -5,
+    "ICA": 26,
+    "viento": 17,
+    "humedad": 18,
+    "luminosidad": 26,
+    "precipitaciones": 2
+  },
+  {
+    "nDia": 26,
+    "temperatura": 14,
+    "ICA": 32,
+    "viento": 24,
+    "humedad": 7,
+    "luminosidad": 29,
+    "precipitaciones": 11
+  },
+  {
+    "nDia": 27,
+    "temperatura": 4,
+    "ICA": 57,
+    "viento": 22,
+    "humedad": 35,
+    "luminosidad": 13,
+    "precipitaciones": 9
+  },
+  {
+    "nDia": 28,
+    "temperatura": 7,
+    "ICA": 25,
+    "viento": 21,
+    "humedad": 28,
+    "luminosidad": 11,
+    "precipitaciones": 10
+  },
+  {
+    "nDia": 29,
+    "temperatura": 20,
+    "ICA": 38,
+    "viento": 30,
+    "humedad": 2,
+    "luminosidad": 1,
+    "precipitaciones": 5
+  },
+  {
+    "nDia": 30,
+    "temperatura": 6,
+    "ICA": 29,
+    "viento": 16,
+    "humedad": 5,
+    "luminosidad": 4,
+    "precipitaciones": 4
+  },
+  {
+    "nDia": 31,
+    "temperatura": 12,
+    "ICA": 55,
+    "viento": 0,
+    "humedad": 1,
+    "luminosidad": 41,
+    "precipitaciones": 7
+  },
+  {
+    "nDia": 32,
+    "temperatura": 1,
+    "ICA": 22,
+    "viento": 5,
+    "humedad": 30,
+    "luminosidad": 24,
+    "precipitaciones": 3
+  },
+  {
+    "nDia": 33,
+    "temperatura": 5,
+    "ICA": 52,
+    "viento": 20,
+    "humedad": 12,
+    "luminosidad": 40,
+    "precipitaciones": 13
+  },
+  {
+    "nDia": 34,
+    "temperatura": 4,
+    "ICA": 51,
+    "viento": 19,
+    "humedad": 1,
+    "luminosidad": 4,
+    "precipitaciones": 5
+  },
+  {
+    "nDia": 35,
+    "temperatura": 5,
+    "ICA": 57,
+    "viento": 10,
+    "humedad": 19,
+    "luminosidad": 34,
+    "precipitaciones": 10
+  },
+  {
+    "nDia": 36,
+    "temperatura": 10,
+    "ICA": 21,
+    "viento": 21,
+    "humedad": 26,
+    "luminosidad": 2,
+    "precipitaciones": 7
+  },
+  {
+    "nDia": 37,
+    "temperatura": -4,
+    "ICA": 45,
+    "viento": 26,
+    "humedad": 2,
+    "luminosidad": 22,
+    "precipitaciones": 5
+  },
+  {
+    "nDia": 38,
+    "temperatura": 15,
+    "ICA": 34,
+    "viento": 30,
+    "humedad": 19,
+    "luminosidad": 27,
+    "precipitaciones": 8
+  },
+  {
+    "nDia": 39,
+    "temperatura": -2,
+    "ICA": 29,
+    "viento": 16,
+    "humedad": 26,
+    "luminosidad": 5,
+    "precipitaciones": 12
+  },
+  {
+    "nDia": 40,
+    "temperatura": -5,
+    "ICA": 46,
+    "viento": 24,
+    "humedad": 9,
+    "luminosidad": 29,
+    "precipitaciones": 3
+  },
+  {
+    "nDia": 41,
+    "temperatura": -2,
+    "ICA": 22,
+    "viento": 13,
+    "humedad": 2,
+    "luminosidad": 37,
+    "precipitaciones": 7
+  },
+  {
+    "nDia": 42,
+    "temperatura": 8,
+    "ICA": 52,
+    "viento": 28,
+    "humedad": 17,
+    "luminosidad": 3,
+    "precipitaciones": 15
+  },
+  {
+    "nDia": 43,
+    "temperatura": 3,
+    "ICA": 42,
+    "viento": 25,
+    "humedad": 38,
+    "luminosidad": 19,
+    "precipitaciones": 4
+  },
+  {
+    "nDia": 44,
+    "temperatura": 7,
+    "ICA": 41,
+    "viento": 10,
+    "humedad": 29,
+    "luminosidad": 16,
+    "precipitaciones": 2
+  },
+  {
+    "nDia": 45,
+    "temperatura": 5,
+    "ICA": 20,
+    "viento": 2,
+    "humedad": 16,
+    "luminosidad": 12,
+    "precipitaciones": 14
+  },
+  {
+    "nDia": 46,
+    "temperatura": 7,
+    "ICA": 20,
+    "viento": 14,
+    "humedad": 8,
+    "luminosidad": 24,
+    "precipitaciones": 10
+  },
+  {
+    "nDia": 47,
+    "temperatura": 2,
+    "ICA": 27,
+    "viento": 2,
+    "humedad": 31,
+    "luminosidad": 6,
+    "precipitaciones": 4
+  },
+  {
+    "nDia": 48,
+    "temperatura": 22,
+    "ICA": 48,
+    "viento": 14,
+    "humedad": 9,
+    "luminosidad": 15,
+    "precipitaciones": 3
+  },
+  {
+    "nDia": 49,
+    "temperatura": 4,
+    "ICA": 52,
+    "viento": 20,
+    "humedad": 38,
+    "luminosidad": 14,
+    "precipitaciones": 10
+  },
+  {
+    "nDia": 50,
+    "temperatura": 2,
+    "ICA": 28,
+    "viento": 10,
+    "humedad": 34,
+    "luminosidad": 26,
+    "precipitaciones": 2
+  },
+  {
+    "nDia": 51,
+    "temperatura": 2,
+    "ICA": 48,
+    "viento": 30,
+    "humedad": 14,
+    "luminosidad": 15,
+    "precipitaciones": 14
+  },
+  {
+    "nDia": 52,
+    "temperatura": -4,
+    "ICA": 29,
+    "viento": 10,
+    "humedad": 2,
+    "luminosidad": 36,
+    "precipitaciones": 13
+  },
+  {
+    "nDia": 53,
+    "temperatura": 1,
+    "ICA": 54,
+    "viento": 3,
+    "humedad": 20,
+    "luminosidad": 32,
+    "precipitaciones": 10
+  },
+  {
+    "nDia": 54,
+    "temperatura": 6,
+    "ICA": 25,
+    "viento": 2,
+    "humedad": 22,
+    "luminosidad": 8,
+    "precipitaciones": 13
+  },
+  {
+    "nDia": 55,
+    "temperatura": 7,
+    "ICA": 27,
+    "viento": 22,
+    "humedad": 25,
+    "luminosidad": 34,
+    "precipitaciones": 5
+  },
+  {
+    "nDia": 56,
+    "temperatura": -4,
+    "ICA": 44,
+    "viento": 3,
+    "humedad": 16,
+    "luminosidad": 3,
+    "precipitaciones": 3
+  },
+  {
+    "nDia": 57,
+    "temperatura": 7,
+    "ICA": 50,
+    "viento": 30,
+    "humedad": 2,
+    "luminosidad": 3,
+    "precipitaciones": 2
+  },
+  {
+    "nDia": 58,
+    "temperatura": 10,
+    "ICA": 58,
+    "viento": 16,
+    "humedad": 37,
+    "luminosidad": 23,
+    "precipitaciones": 4
+  },
+  {
+    "nDia": 59,
+    "temperatura": 6,
+    "ICA": 30,
+    "viento": 8,
+    "humedad": 14,
+    "luminosidad": 27,
+    "precipitaciones": 9
+  },
+  {
+    "nDia": 60,
+    "temperatura": 2,
+    "ICA": 63,
+    "viento": 55,
+    "humedad": 41,
+    "luminosidad": 45,
+    "precipitaciones": 14
+  },
+  {
+    "nDia": 61,
+    "temperatura": 9,
+    "ICA": 23,
+    "viento": 49,
+    "humedad": 43,
+    "luminosidad": 30,
+    "precipitaciones": 12
+  },
+  {
+    "nDia": 62,
+    "temperatura": -3,
+    "ICA": 60,
+    "viento": 31,
+    "humedad": 26,
+    "luminosidad": 55,
+    "precipitaciones": 20
+  },
+  {
+    "nDia": 63,
+    "temperatura": 0,
+    "ICA": 58,
+    "viento": 67,
+    "humedad": 52,
+    "luminosidad": 26,
+    "precipitaciones": 17
+  },
+  {
+    "nDia": 64,
+    "temperatura": 7,
+    "ICA": 64,
+    "viento": 47,
+    "humedad": 3,
+    "luminosidad": 13,
+    "precipitaciones": 15
+  },
+  {
+    "nDia": 65,
+    "temperatura": 2,
+    "ICA": 50,
+    "viento": 75,
+    "humedad": 14,
+    "luminosidad": 48,
+    "precipitaciones": 14
+  },
+  {
+    "nDia": 66,
+    "temperatura": 4,
+    "ICA": 35,
+    "viento": 48,
+    "humedad": 50,
+    "luminosidad": 36,
+    "precipitaciones": 19
+  },
+  {
+    "nDia": 67,
+    "temperatura": 21,
+    "ICA": 36,
+    "viento": 33,
+    "humedad": 16,
+    "luminosidad": 38,
+    "precipitaciones": 12
+  },
+  {
+    "nDia": 68,
+    "temperatura": 0,
+    "ICA": 33,
+    "viento": 97,
+    "humedad": 39,
+    "luminosidad": 34,
+    "precipitaciones": 14
+  },
+  {
+    "nDia": 69,
+    "temperatura": -1,
+    "ICA": 39,
+    "viento": 42,
+    "humedad": 55,
+    "luminosidad": 25,
+    "precipitaciones": 9
+  },
+  {
+    "nDia": 70,
+    "temperatura": 4,
+    "ICA": 25,
+    "viento": 77,
+    "humedad": 2,
+    "luminosidad": 37,
+    "precipitaciones": 20
+  },
+  {
+    "nDia": 71,
+    "temperatura": 5,
+    "ICA": 26,
+    "viento": 27,
+    "humedad": 9,
+    "luminosidad": 23,
+    "precipitaciones": 12
+  },
+  {
+    "nDia": 72,
+    "temperatura": 1,
+    "ICA": 71,
+    "viento": 22,
+    "humedad": 50,
+    "luminosidad": 39,
+    "precipitaciones": 15
+  },
+  {
+    "nDia": 73,
+    "temperatura": 9,
+    "ICA": 59,
+    "viento": 37,
+    "humedad": 52,
+    "luminosidad": 3,
+    "precipitaciones": 12
+  },
+  {
+    "nDia": 74,
+    "temperatura": 5,
+    "ICA": 46,
+    "viento": 77,
+    "humedad": 11,
+    "luminosidad": 18,
+    "precipitaciones": 12
+  },
+  {
+    "nDia": 75,
+    "temperatura": 9,
+    "ICA": 39,
+    "viento": 45,
+    "humedad": 47,
+    "luminosidad": 7,
+    "precipitaciones": 8
+  },
+  {
+    "nDia": 76,
+    "temperatura": 20,
+    "ICA": 79,
+    "viento": 71,
+    "humedad": 48,
+    "luminosidad": 7,
+    "precipitaciones": 8
+  },
+  {
+    "nDia": 77,
+    "temperatura": 17,
+    "ICA": 46,
+    "viento": 90,
+    "humedad": 21,
+    "luminosidad": 31,
+    "precipitaciones": 9
+  },
+  {
+    "nDia": 78,
+    "temperatura": 20,
+    "ICA": 40,
+    "viento": 68,
+    "humedad": 30,
+    "luminosidad": 20,
+    "precipitaciones": 16
+  },
+  {
+    "nDia": 79,
+    "temperatura": 7,
+    "ICA": 73,
+    "viento": 55,
+    "humedad": 20,
+    "luminosidad": 44,
+    "precipitaciones": 13
+  },
+  {
+    "nDia": 80,
+    "temperatura": 10,
+    "ICA": 65,
+    "viento": 70,
+    "humedad": 47,
+    "luminosidad": 34,
+    "precipitaciones": 10
+  },
+  {
+    "nDia": 81,
+    "temperatura": -1,
+    "ICA": 60,
+    "viento": 55,
+    "humedad": 29,
+    "luminosidad": 59,
+    "precipitaciones": 5
+  },
+  {
+    "nDia": 82,
+    "temperatura": 6,
+    "ICA": 43,
+    "viento": 38,
+    "humedad": 26,
+    "luminosidad": 57,
+    "precipitaciones": 5
+  },
+  {
+    "nDia": 83,
+    "temperatura": 8,
+    "ICA": 26,
+    "viento": 36,
+    "humedad": 10,
+    "luminosidad": 9,
+    "precipitaciones": 3
+  },
+  {
+    "nDia": 84,
+    "temperatura": 6,
+    "ICA": 67,
+    "viento": 33,
+    "humedad": 35,
+    "luminosidad": 37,
+    "precipitaciones": 12
+  },
+  {
+    "nDia": 85,
+    "temperatura": 3,
+    "ICA": 29,
+    "viento": 70,
+    "humedad": 59,
+    "luminosidad": 41,
+    "precipitaciones": 4
+  },
+  {
+    "nDia": 86,
+    "temperatura": -5,
+    "ICA": 37,
+    "viento": 63,
+    "humedad": 32,
+    "luminosidad": 57,
+    "precipitaciones": 7
+  },
+  {
+    "nDia": 87,
+    "temperatura": -2,
+    "ICA": 73,
+    "viento": 71,
+    "humedad": 1,
+    "luminosidad": 44,
+    "precipitaciones": 8
+  },
+  {
+    "nDia": 88,
+    "temperatura": -1,
+    "ICA": 77,
+    "viento": 26,
+    "humedad": 61,
+    "luminosidad": 8,
+    "precipitaciones": 3
+  },
+  {
+    "nDia": 89,
+    "temperatura": 22,
+    "ICA": 50,
+    "viento": 97,
+    "humedad": 22,
+    "luminosidad": 11,
+    "precipitaciones": 4
+  },
+  {
+    "nDia": 90,
+    "temperatura": 20,
+    "ICA": 36,
+    "viento": 94,
+    "humedad": 49,
+    "luminosidad": 24,
+    "precipitaciones": 11
+  },
+  {
+    "nDia": 91,
+    "temperatura": 24,
+    "ICA": 65,
+    "viento": 68,
+    "humedad": 7,
+    "luminosidad": 4,
+    "precipitaciones": 3
+  },
+  {
+    "nDia": 92,
+    "temperatura": 21,
+    "ICA": 52,
+    "viento": 94,
+    "humedad": 18,
+    "luminosidad": 41,
+    "precipitaciones": 14
+  },
+  {
+    "nDia": 93,
+    "temperatura": 12,
+    "ICA": 57,
+    "viento": 49,
+    "humedad": 56,
+    "luminosidad": 28,
+    "precipitaciones": 13
+  },
+  {
+    "nDia": 94,
+    "temperatura": 10,
+    "ICA": 73,
+    "viento": 74,
+    "humedad": 48,
+    "luminosidad": 45,
+    "precipitaciones": 17
+  },
+  {
+    "nDia": 95,
+    "temperatura": 10,
+    "ICA": 31,
+    "viento": 95,
+    "humedad": 14,
+    "luminosidad": 47,
+    "precipitaciones": 16
+  },
+  {
+    "nDia": 96,
+    "temperatura": 15,
+    "ICA": 39,
+    "viento": 22,
+    "humedad": 13,
+    "luminosidad": 29,
+    "precipitaciones": 3
+  },
+  {
+    "nDia": 97,
+    "temperatura": 20,
+    "ICA": 66,
+    "viento": 26,
+    "humedad": 30,
+    "luminosidad": 33,
+    "precipitaciones": 11
+  },
+  {
+    "nDia": 98,
+    "temperatura": 21,
+    "ICA": 47,
+    "viento": 68,
+    "humedad": 42,
+    "luminosidad": 40,
+    "precipitaciones": 7
+  },
+  {
+    "nDia": 99,
+    "temperatura": 20,
+    "ICA": 51,
+    "viento": 86,
+    "humedad": 42,
+    "luminosidad": 57,
+    "precipitaciones": 19
+  },
+  {
+    "nDia": 100,
+    "temperatura": 7,
+    "ICA": 26,
+    "viento": 42,
+    "humedad": 19,
+    "luminosidad": 17,
+    "precipitaciones": 15
+  },
+  {
+    "nDia": 101,
+    "temperatura": 20,
+    "ICA": 33,
+    "viento": 85,
+    "humedad": 45,
+    "luminosidad": 54,
+    "precipitaciones": 9
+  },
+  {
+    "nDia": 102,
+    "temperatura": 22,
+    "ICA": 30,
+    "viento": 75,
+    "humedad": 11,
+    "luminosidad": 26,
+    "precipitaciones": 5
+  },
+  {
+    "nDia": 103,
+    "temperatura": 6,
+    "ICA": 48,
+    "viento": 82,
+    "humedad": 37,
+    "luminosidad": 39,
+    "precipitaciones": 18
+  },
+  {
+    "nDia": 104,
+    "temperatura": 20,
+    "ICA": 22,
+    "viento": 77,
+    "humedad": 42,
+    "luminosidad": 19,
+    "precipitaciones": 5
+  },
+  {
+    "nDia": 105,
+    "temperatura": 12,
+    "ICA": 56,
+    "viento": 46,
+    "humedad": 44,
+    "luminosidad": 46,
+    "precipitaciones": 16
+  },
+  {
+    "nDia": 106,
+    "temperatura": 27,
+    "ICA": 32,
+    "viento": 87,
+    "humedad": 25,
+    "luminosidad": 55,
+    "precipitaciones": 16
+  },
+  {
+    "nDia": 107,
+    "temperatura": 6,
+    "ICA": 65,
+    "viento": 55,
+    "humedad": 10,
+    "luminosidad": 50,
+    "precipitaciones": 7
+  },
+  {
+    "nDia": 108,
+    "temperatura": 27,
+    "ICA": 40,
+    "viento": 48,
+    "humedad": 34,
+    "luminosidad": 20,
+    "precipitaciones": 6
+  },
+  {
+    "nDia": 109,
+    "temperatura": 29,
+    "ICA": 51,
+    "viento": 21,
+    "humedad": 28,
+    "luminosidad": 30,
+    "precipitaciones": 13
+  },
+  {
+    "nDia": 110,
+    "temperatura": 6,
+    "ICA": 63,
+    "viento": 84,
+    "humedad": 17,
+    "luminosidad": 16,
+    "precipitaciones": 15
+  },
+  {
+    "nDia": 111,
+    "temperatura": 17,
+    "ICA": 33,
+    "viento": 78,
+    "humedad": 46,
+    "luminosidad": 9,
+    "precipitaciones": 10
+  },
+  {
+    "nDia": 112,
+    "temperatura": 5,
+    "ICA": 65,
+    "viento": 30,
+    "humedad": 29,
+    "luminosidad": 24,
+    "precipitaciones": 12
+  },
+  {
+    "nDia": 113,
+    "temperatura": 14,
+    "ICA": 44,
+    "viento": 52,
+    "humedad": 7,
+    "luminosidad": 41,
+    "precipitaciones": 6
+  },
+  {
+    "nDia": 114,
+    "temperatura": 16,
+    "ICA": 26,
+    "viento": 55,
+    "humedad": 48,
+    "luminosidad": 37,
+    "precipitaciones": 12
+  },
+  {
+    "nDia": 115,
+    "temperatura": 6,
+    "ICA": 20,
+    "viento": 66,
+    "humedad": 10,
+    "luminosidad": 32,
+    "precipitaciones": 16
+  },
+  {
+    "nDia": 116,
+    "temperatura": 15,
+    "ICA": 41,
+    "viento": 44,
+    "humedad": 3,
+    "luminosidad": 38,
+    "precipitaciones": 18
+  },
+  {
+    "nDia": 117,
+    "temperatura": 16,
+    "ICA": 34,
+    "viento": 54,
+    "humedad": 40,
+    "luminosidad": 31,
+    "precipitaciones": 13
+  },
+  {
+    "nDia": 118,
+    "temperatura": 8,
+    "ICA": 71,
+    "viento": 91,
+    "humedad": 41,
+    "luminosidad": 38,
+    "precipitaciones": 4
+  },
+  {
+    "nDia": 119,
+    "temperatura": 12,
+    "ICA": 71,
+    "viento": 24,
+    "humedad": 4,
+    "luminosidad": 57,
+    "precipitaciones": 19
+  },
+  {
+    "nDia": 120,
+    "temperatura": 11,
+    "ICA": 31,
+    "viento": 76,
+    "humedad": 16,
+    "luminosidad": 9,
+    "precipitaciones": 5
+  },
+  {
+    "nDia": 121,
+    "temperatura": 14,
+    "ICA": 52,
+    "viento": 82,
+    "humedad": 3,
+    "luminosidad": 60,
+    "precipitaciones": 19
+  },
+  {
+    "nDia": 122,
+    "temperatura": 15,
+    "ICA": 23,
+    "viento": 95,
+    "humedad": 32,
+    "luminosidad": 12,
+    "precipitaciones": 13
+  },
+  {
+    "nDia": 123,
+    "temperatura": 15,
+    "ICA": 30,
+    "viento": 39,
+    "humedad": 57,
+    "luminosidad": 47,
+    "precipitaciones": 18
+  },
+  {
+    "nDia": 124,
+    "temperatura": 8,
+    "ICA": 30,
+    "viento": 34,
+    "humedad": 53,
+    "luminosidad": 48,
+    "precipitaciones": 6
+  },
+  {
+    "nDia": 125,
+    "temperatura": 19,
+    "ICA": 60,
+    "viento": 35,
+    "humedad": 21,
+    "luminosidad": 3,
+    "precipitaciones": 16
+  },
+  {
+    "nDia": 126,
+    "temperatura": 10,
+    "ICA": 36,
+    "viento": 66,
+    "humedad": 42,
+    "luminosidad": 38,
+    "precipitaciones": 14
+  },
+  {
+    "nDia": 127,
+    "temperatura": 12,
+    "ICA": 52,
+    "viento": 66,
+    "humedad": 15,
+    "luminosidad": 45,
+    "precipitaciones": 19
+  },
+  {
+    "nDia": 128,
+    "temperatura": 16,
+    "ICA": 73,
+    "viento": 34,
+    "humedad": 42,
+    "luminosidad": 38,
+    "precipitaciones": 17
+  },
+  {
+    "nDia": 129,
+    "temperatura": 20,
+    "ICA": 74,
+    "viento": 23,
+    "humedad": 50,
+    "luminosidad": 36,
+    "precipitaciones": 9
+  },
+  {
+    "nDia": 130,
+    "temperatura": 16,
+    "ICA": 22,
+    "viento": 87,
+    "humedad": 35,
+    "luminosidad": 25,
+    "precipitaciones": 17
+  },
+  {
+    "nDia": 131,
+    "temperatura": 7,
+    "ICA": 57,
+    "viento": 37,
+    "humedad": 36,
+    "luminosidad": 31,
+    "precipitaciones": 18
+  },
+  {
+    "nDia": 132,
+    "temperatura": 8,
+    "ICA": 32,
+    "viento": 38,
+    "humedad": 17,
+    "luminosidad": 16,
+    "precipitaciones": 7
+  },
+  {
+    "nDia": 133,
+    "temperatura": 17,
+    "ICA": 57,
+    "viento": 85,
+    "humedad": 48,
+    "luminosidad": 15,
+    "precipitaciones": 12
+  },
+  {
+    "nDia": 134,
+    "temperatura": 25,
+    "ICA": 50,
+    "viento": 91,
+    "humedad": 30,
+    "luminosidad": 40,
+    "precipitaciones": 5
+  },
+  {
+    "nDia": 135,
+    "temperatura": 9,
+    "ICA": 77,
+    "viento": 59,
+    "humedad": 23,
+    "luminosidad": 8,
+    "precipitaciones": 19
+  },
+  {
+    "nDia": 136,
+    "temperatura": 11,
+    "ICA": 24,
+    "viento": 100,
+    "humedad": 26,
+    "luminosidad": 46,
+    "precipitaciones": 14
+  },
+  {
+    "nDia": 137,
+    "temperatura": 10,
+    "ICA": 20,
+    "viento": 88,
+    "humedad": 57,
+    "luminosidad": 45,
+    "precipitaciones": 4
+  },
+  {
+    "nDia": 138,
+    "temperatura": 16,
+    "ICA": 76,
+    "viento": 98,
+    "humedad": 40,
+    "luminosidad": 1,
+    "precipitaciones": 6
+  },
+  {
+    "nDia": 139,
+    "temperatura": 10,
+    "ICA": 73,
+    "viento": 85,
+    "humedad": 15,
+    "luminosidad": 26,
+    "precipitaciones": 15
+  },
+  {
+    "nDia": 140,
+    "temperatura": 18,
+    "ICA": 51,
+    "viento": 86,
+    "humedad": 14,
+    "luminosidad": 24,
+    "precipitaciones": 5
+  },
+  {
+    "nDia": 141,
+    "temperatura": 14,
+    "ICA": 22,
+    "viento": 91,
+    "humedad": 45,
+    "luminosidad": 7,
+    "precipitaciones": 7
+  },
+  {
+    "nDia": 142,
+    "temperatura": 11,
+    "ICA": 20,
+    "viento": 55,
+    "humedad": 21,
+    "luminosidad": 13,
+    "precipitaciones": 6
+  },
+  {
+    "nDia": 143,
+    "temperatura": 23,
+    "ICA": 57,
+    "viento": 40,
+    "humedad": 30,
+    "luminosidad": 27,
+    "precipitaciones": 20
+  },
+  {
+    "nDia": 144,
+    "temperatura": 14,
+    "ICA": 29,
+    "viento": 83,
+    "humedad": 34,
+    "luminosidad": 55,
+    "precipitaciones": 9
+  },
+  {
+    "nDia": 145,
+    "temperatura": 22,
+    "ICA": 44,
+    "viento": 57,
+    "humedad": 19,
+    "luminosidad": 44,
+    "precipitaciones": 6
+  },
+  {
+    "nDia": 146,
+    "temperatura": 12,
+    "ICA": 31,
+    "viento": 56,
+    "humedad": 45,
+    "luminosidad": 33,
+    "precipitaciones": 12
+  },
+  {
+    "nDia": 147,
+    "temperatura": 18,
+    "ICA": 20,
+    "viento": 39,
+    "humedad": 39,
+    "luminosidad": 24,
+    "precipitaciones": 14
+  },
+  {
+    "nDia": 148,
+    "temperatura": 23,
+    "ICA": 36,
+    "viento": 86,
+    "humedad": 51,
+    "luminosidad": 13,
+    "precipitaciones": 16
+  },
+  {
+    "nDia": 149,
+    "temperatura": 19,
+    "ICA": 48,
+    "viento": 34,
+    "humedad": 43,
+    "luminosidad": 53,
+    "precipitaciones": 4
+  },
+  {
+    "nDia": 150,
+    "temperatura": 13,
+    "ICA": 29,
+    "viento": 52,
+    "humedad": 23,
+    "luminosidad": 22,
+    "precipitaciones": 1
+  },
+  {
+    "nDia": 151,
+    "temperatura": 20,
+    "ICA": 22,
+    "viento": 23,
+    "humedad": 2,
+    "luminosidad": 14,
+    "precipitaciones": 0
+  },
+  {
+    "nDia": 152,
+    "temperatura": 24,
+    "ICA": 34,
+    "viento": 47,
+    "humedad": 18,
+    "luminosidad": 3,
+    "precipitaciones": 0
+  },
+  {
+    "nDia": 153,
+    "temperatura": 15,
+    "ICA": 20,
+    "viento": 41,
+    "humedad": 27,
+    "luminosidad": 8,
+    "precipitaciones": 1
+  },
+  {
+    "nDia": 154,
+    "temperatura": 16,
+    "ICA": 46,
+    "viento": 57,
+    "humedad": 10,
+    "luminosidad": 25,
+    "precipitaciones": 0
+  },
+  {
+    "nDia": 155,
+    "temperatura": 14,
+    "ICA": 42,
+    "viento": 58,
+    "humedad": 9,
+    "luminosidad": 4,
+    "precipitaciones": 0
+  },
+  {
+    "nDia": 156,
+    "temperatura": 20,
+    "ICA": 25,
+    "viento": 33,
+    "humedad": 27,
+    "luminosidad": 9,
+    "precipitaciones": 1
+  },
+  {
+    "nDia": 157,
+    "temperatura": 8,
+    "ICA": 37,
+    "viento": 20,
+    "humedad": 23,
+    "luminosidad": 15,
+    "precipitaciones": 1
+  },
+  {
+    "nDia": 158,
+    "temperatura": 20,
+    "ICA": 45,
+    "viento": 14,
+    "humedad": 12,
+    "luminosidad": 28,
+    "precipitaciones": 0
+  },
+  {
+    "nDia": 159,
+    "temperatura": 8,
+    "ICA": 39,
+    "viento": 28,
+    "humedad": 25,
+    "luminosidad": 2,
+    "precipitaciones": 0
+  },
+  {
+    "nDia": 160,
+    "temperatura": 8,
+    "ICA": 50,
+    "viento": 54,
+    "humedad": 4,
+    "luminosidad": 29,
+    "precipitaciones": 2
+  },
+  {
+    "nDia": 161,
+    "temperatura": 13,
+    "ICA": 42,
+    "viento": 54,
+    "humedad": 1,
+    "luminosidad": 15,
+    "precipitaciones": 2
+  },
+  {
+    "nDia": 162,
+    "temperatura": 20,
+    "ICA": 22,
+    "viento": 43,
+    "humedad": 11,
+    "luminosidad": 12,
+    "precipitaciones": 0
+  },
+  {
+    "nDia": 163,
+    "temperatura": 18,
+    "ICA": 21,
+    "viento": 39,
+    "humedad": 12,
+    "luminosidad": 25,
+    "precipitaciones": 0
+  },
+  {
+    "nDia": 164,
+    "temperatura": 25,
+    "ICA": 35,
+    "viento": 25,
+    "humedad": 12,
+    "luminosidad": 2,
+    "precipitaciones": 2
+  },
+  {
+    "nDia": 165,
+    "temperatura": 9,
+    "ICA": 29,
+    "viento": 15,
+    "humedad": 2,
+    "luminosidad": 23,
+    "precipitaciones": 2
+  },
+  {
+    "nDia": 166,
+    "temperatura": 15,
+    "ICA": 22,
+    "viento": 43,
+    "humedad": 5,
+    "luminosidad": 19,
+    "precipitaciones": 1
+  },
+  {
+    "nDia": 167,
+    "temperatura": 5,
+    "ICA": 20,
+    "viento": 22,
+    "humedad": 19,
+    "luminosidad": 21,
+    "precipitaciones": 0
+  },
+  {
+    "nDia": 168,
+    "temperatura": 24,
+    "ICA": 22,
+    "viento": 43,
+    "humedad": 28,
+    "luminosidad": 22,
+    "precipitaciones": 2
+  },
+  {
+    "nDia": 169,
+    "temperatura": 17,
+    "ICA": 32,
+    "viento": 23,
+    "humedad": 13,
+    "luminosidad": 25,
+    "precipitaciones": 0
+  },
+  {
+    "nDia": 170,
+    "temperatura": 20,
+    "ICA": 32,
+    "viento": 25,
+    "humedad": 25,
+    "luminosidad": 17,
+    "precipitaciones": 1
+  },
+  {
+    "nDia": 171,
+    "temperatura": 12,
+    "ICA": 43,
+    "viento": 12,
+    "humedad": 6,
+    "luminosidad": 15,
+    "precipitaciones": 2
+  },
+  {
+    "nDia": 172,
+    "temperatura": 17,
+    "ICA": 26,
+    "viento": 52,
+    "humedad": 25,
+    "luminosidad": 18,
+    "precipitaciones": 0
+  },
+  {
+    "nDia": 173,
+    "temperatura": 17,
+    "ICA": 22,
+    "viento": 35,
+    "humedad": 16,
+    "luminosidad": 14,
+    "precipitaciones": 2
+  },
+  {
+    "nDia": 174,
+    "temperatura": 16,
+    "ICA": 26,
+    "viento": 60,
+    "humedad": 20,
+    "luminosidad": 16,
+    "precipitaciones": 1
+  },
+  {
+    "nDia": 175,
+    "temperatura": 20,
+    "ICA": 24,
+    "viento": 56,
+    "humedad": 25,
+    "luminosidad": 19,
+    "precipitaciones": 0
+  },
+  {
+    "nDia": 176,
+    "temperatura": 7,
+    "ICA": 39,
+    "viento": 39,
+    "humedad": 21,
+    "luminosidad": 26,
+    "precipitaciones": 1
+  },
+  {
+    "nDia": 177,
+    "temperatura": 14,
+    "ICA": 47,
+    "viento": 38,
+    "humedad": 1,
+    "luminosidad": 25,
+    "precipitaciones": 1
+  },
+  {
+    "nDia": 178,
+    "temperatura": 8,
+    "ICA": 24,
+    "viento": 42,
+    "humedad": 24,
+    "luminosidad": 4,
+    "precipitaciones": 1
+  },
+  {
+    "nDia": 179,
+    "temperatura": 24,
+    "ICA": 29,
+    "viento": 44,
+    "humedad": 26,
+    "luminosidad": 27,
+    "precipitaciones": 1
+  },
+  {
+    "nDia": 180,
+    "temperatura": 44,
+    "ICA": 20,
+    "viento": 41,
+    "humedad": 19,
+    "luminosidad": 29,
+    "precipitaciones": 2
+  },
+  {
+    "nDia": 181,
+    "temperatura": 45,
+    "ICA": 41,
+    "viento": 39,
+    "humedad": 20,
+    "luminosidad": 7,
+    "precipitaciones": 2
+  },
+  {
+    "nDia": 182,
+    "temperatura": 25,
+    "ICA": 20,
+    "viento": 10,
+    "humedad": 10,
+    "luminosidad": 23,
+    "precipitaciones": 2
+  },
+  {
+    "nDia": 183,
+    "temperatura": 15,
+    "ICA": 49,
+    "viento": 27,
+    "humedad": 10,
+    "luminosidad": 31,
+    "precipitaciones": 0
+  },
+  {
+    "nDia": 184,
+    "temperatura": 29,
+    "ICA": 48,
+    "viento": 53,
+    "humedad": 17,
+    "luminosidad": 30,
+    "precipitaciones": 2
+  },
+  {
+    "nDia": 185,
+    "temperatura": 35,
+    "ICA": 28,
+    "viento": 28,
+    "humedad": 22,
+    "luminosidad": 31,
+    "precipitaciones": 0
+  },
+  {
+    "nDia": 186,
+    "temperatura": 20,
+    "ICA": 44,
+    "viento": 33,
+    "humedad": 20,
+    "luminosidad": 16,
+    "precipitaciones": 1
+  },
+  {
+    "nDia": 187,
+    "temperatura": 23,
+    "ICA": 31,
+    "viento": 23,
+    "humedad": 5,
+    "luminosidad": 31,
+    "precipitaciones": 2
+  },
+  {
+    "nDia": 188,
+    "temperatura": 19,
+    "ICA": 34,
+    "viento": 12,
+    "humedad": 28,
+    "luminosidad": 25,
+    "precipitaciones": 1
+  },
+  {
+    "nDia": 189,
+    "temperatura": 23,
+    "ICA": 44,
+    "viento": 16,
+    "humedad": 20,
+    "luminosidad": 4,
+    "precipitaciones": 0
+  },
+  {
+    "nDia": 190,
+    "temperatura": 32,
+    "ICA": 22,
+    "viento": 45,
+    "humedad": 16,
+    "luminosidad": 2,
+    "precipitaciones": 2
+  },
+  {
+    "nDia": 191,
+    "temperatura": 39,
+    "ICA": 50,
+    "viento": 12,
+    "humedad": 6,
+    "luminosidad": 23,
+    "precipitaciones": 1
+  },
+  {
+    "nDia": 192,
+    "temperatura": 18,
+    "ICA": 42,
+    "viento": 19,
+    "humedad": 6,
+    "luminosidad": 26,
+    "precipitaciones": 1
+  },
+  {
+    "nDia": 193,
+    "temperatura": 25,
+    "ICA": 36,
+    "viento": 57,
+    "humedad": 23,
+    "luminosidad": 5,
+    "precipitaciones": 1
+  },
+  {
+    "nDia": 194,
+    "temperatura": 29,
+    "ICA": 24,
+    "viento": 37,
+    "humedad": 10,
+    "luminosidad": 11,
+    "precipitaciones": 1
+  },
+  {
+    "nDia": 195,
+    "temperatura": 27,
+    "ICA": 37,
+    "viento": 54,
+    "humedad": 3,
+    "luminosidad": 6,
+    "precipitaciones": 0
+  },
+  {
+    "nDia": 196,
+    "temperatura": 28,
+    "ICA": 44,
+    "viento": 30,
+    "humedad": 2,
+    "luminosidad": 22,
+    "precipitaciones": 0
+  },
+  {
+    "nDia": 197,
+    "temperatura": 41,
+    "ICA": 20,
+    "viento": 16,
+    "humedad": 4,
+    "luminosidad": 31,
+    "precipitaciones": 1
+  },
+  {
+    "nDia": 198,
+    "temperatura": 17,
+    "ICA": 33,
+    "viento": 59,
+    "humedad": 5,
+    "luminosidad": 31,
+    "precipitaciones": 1
+  },
+  {
+    "nDia": 199,
+    "temperatura": 30,
+    "ICA": 44,
+    "viento": 32,
+    "humedad": 22,
+    "luminosidad": 19,
+    "precipitaciones": 0
+  },
+  {
+    "nDia": 200,
+    "temperatura": 42,
+    "ICA": 37,
+    "viento": 46,
+    "humedad": 22,
+    "luminosidad": 16,
+    "precipitaciones": 1
+  },
+  {
+    "nDia": 201,
+    "temperatura": 36,
+    "ICA": 32,
+    "viento": 48,
+    "humedad": 5,
+    "luminosidad": 11,
+    "precipitaciones": 1
+  },
+  {
+    "nDia": 202,
+    "temperatura": 20,
+    "ICA": 25,
+    "viento": 10,
+    "humedad": 18,
+    "luminosidad": 21,
+    "precipitaciones": 1
+  },
+  {
+    "nDia": 203,
+    "temperatura": 44,
+    "ICA": 40,
+    "viento": 16,
+    "humedad": 10,
+    "luminosidad": 17,
+    "precipitaciones": 0
+  },
+  {
+    "nDia": 204,
+    "temperatura": 15,
+    "ICA": 29,
+    "viento": 35,
+    "humedad": 22,
+    "luminosidad": 16,
+    "precipitaciones": 1
+  },
+  {
+    "nDia": 205,
+    "temperatura": 35,
+    "ICA": 43,
+    "viento": 28,
+    "humedad": 12,
+    "luminosidad": 10,
+    "precipitaciones": 1
+  },
+  {
+    "nDia": 206,
+    "temperatura": 16,
+    "ICA": 26,
+    "viento": 25,
+    "humedad": 10,
+    "luminosidad": 21,
+    "precipitaciones": 1
+  },
+  {
+    "nDia": 207,
+    "temperatura": 23,
+    "ICA": 31,
+    "viento": 32,
+    "humedad": 20,
+    "luminosidad": 11,
+    "precipitaciones": 0
+  },
+  {
+    "nDia": 208,
+    "temperatura": 35,
+    "ICA": 39,
+    "viento": 31,
+    "humedad": 20,
+    "luminosidad": 6,
+    "precipitaciones": 2
+  },
+  {
+    "nDia": 209,
+    "temperatura": 24,
+    "ICA": 46,
+    "viento": 43,
+    "humedad": 20,
+    "luminosidad": 11,
+    "precipitaciones": 1
+  },
+  {
+    "nDia": 210,
+    "temperatura": 45,
+    "ICA": 46,
+    "viento": 49,
+    "humedad": 20,
+    "luminosidad": 14,
+    "precipitaciones": 1
+  },
+  {
+    "nDia": 211,
+    "temperatura": 30,
+    "ICA": 27,
+    "viento": 15,
+    "humedad": 2,
+    "luminosidad": 23,
+    "precipitaciones": 0
+  },
+  {
+    "nDia": 212,
+    "temperatura": 42,
+    "ICA": 36,
+    "viento": 47,
+    "humedad": 17,
+    "luminosidad": 30,
+    "precipitaciones": 0
+  },
+  {
+    "nDia": 213,
+    "temperatura": 43,
+    "ICA": 34,
+    "viento": 46,
+    "humedad": 20,
+    "luminosidad": 19,
+    "precipitaciones": 2
+  },
+  {
+    "nDia": 214,
+    "temperatura": 42,
+    "ICA": 31,
+    "viento": 53,
+    "humedad": 11,
+    "luminosidad": 29,
+    "precipitaciones": 1
+  },
+  {
+    "nDia": 215,
+    "temperatura": 19,
+    "ICA": 27,
+    "viento": 49,
+    "humedad": 15,
+    "luminosidad": 9,
+    "precipitaciones": 0
+  },
+  {
+    "nDia": 216,
+    "temperatura": 29,
+    "ICA": 25,
+    "viento": 38,
+    "humedad": 5,
+    "luminosidad": 12,
+    "precipitaciones": 2
+  },
+  {
+    "nDia": 217,
+    "temperatura": 22,
+    "ICA": 40,
+    "viento": 17,
+    "humedad": 24,
+    "luminosidad": 30,
+    "precipitaciones": 0
+  },
+  {
+    "nDia": 218,
+    "temperatura": 42,
+    "ICA": 28,
+    "viento": 12,
+    "humedad": 29,
+    "luminosidad": 29,
+    "precipitaciones": 1
+  },
+  {
+    "nDia": 219,
+    "temperatura": 38,
+    "ICA": 44,
+    "viento": 34,
+    "humedad": 25,
+    "luminosidad": 31,
+    "precipitaciones": 2
+  },
+  {
+    "nDia": 220,
+    "temperatura": 23,
+    "ICA": 45,
+    "viento": 24,
+    "humedad": 23,
+    "luminosidad": 14,
+    "precipitaciones": 0
+  },
+  {
+    "nDia": 221,
+    "temperatura": 36,
+    "ICA": 32,
+    "viento": 51,
+    "humedad": 5,
+    "luminosidad": 9,
+    "precipitaciones": 2
+  },
+  {
+    "nDia": 222,
+    "temperatura": 29,
+    "ICA": 33,
+    "viento": 46,
+    "humedad": 7,
+    "luminosidad": 10,
+    "precipitaciones": 2
+  },
+  {
+    "nDia": 223,
+    "temperatura": 26,
+    "ICA": 43,
+    "viento": 10,
+    "humedad": 31,
+    "luminosidad": 6,
+    "precipitaciones": 1
+  },
+  {
+    "nDia": 224,
+    "temperatura": 40,
+    "ICA": 31,
+    "viento": 22,
+    "humedad": 8,
+    "luminosidad": 16,
+    "precipitaciones": 1
+  },
+  {
+    "nDia": 225,
+    "temperatura": 32,
+    "ICA": 26,
+    "viento": 47,
+    "humedad": 30,
+    "luminosidad": 21,
+    "precipitaciones": 1
+  },
+  {
+    "nDia": 226,
+    "temperatura": 24,
+    "ICA": 35,
+    "viento": 25,
+    "humedad": 6,
+    "luminosidad": 18,
+    "precipitaciones": 2
+  },
+  {
+    "nDia": 227,
+    "temperatura": 28,
+    "ICA": 22,
+    "viento": 45,
+    "humedad": 29,
+    "luminosidad": 8,
+    "precipitaciones": 1
+  },
+  {
+    "nDia": 228,
+    "temperatura": 31,
+    "ICA": 38,
+    "viento": 46,
+    "humedad": 8,
+    "luminosidad": 18,
+    "precipitaciones": 1
+  },
+  {
+    "nDia": 229,
+    "temperatura": 45,
+    "ICA": 29,
+    "viento": 58,
+    "humedad": 13,
+    "luminosidad": 27,
+    "precipitaciones": 1
+  },
+  {
+    "nDia": 230,
+    "temperatura": 35,
+    "ICA": 38,
+    "viento": 28,
+    "humedad": 21,
+    "luminosidad": 2,
+    "precipitaciones": 1
+  },
+  {
+    "nDia": 231,
+    "temperatura": 23,
+    "ICA": 49,
+    "viento": 55,
+    "humedad": 15,
+    "luminosidad": 4,
+    "precipitaciones": 0
+  },
+  {
+    "nDia": 232,
+    "temperatura": 26,
+    "ICA": 44,
+    "viento": 35,
+    "humedad": 12,
+    "luminosidad": 20,
+    "precipitaciones": 0
+  },
+  {
+    "nDia": 233,
+    "temperatura": 38,
+    "ICA": 42,
+    "viento": 52,
+    "humedad": 24,
+    "luminosidad": 18,
+    "precipitaciones": 0
+  },
+  {
+    "nDia": 234,
+    "temperatura": 43,
+    "ICA": 45,
+    "viento": 39,
+    "humedad": 23,
+    "luminosidad": 6,
+    "precipitaciones": 1
+  },
+  {
+    "nDia": 235,
+    "temperatura": 19,
+    "ICA": 29,
+    "viento": 30,
+    "humedad": 6,
+    "luminosidad": 29,
+    "precipitaciones": 0
+  },
+  {
+    "nDia": 236,
+    "temperatura": 36,
+    "ICA": 44,
+    "viento": 41,
+    "humedad": 19,
+    "luminosidad": 22,
+    "precipitaciones": 1
+  },
+  {
+    "nDia": 237,
+    "temperatura": 37,
+    "ICA": 31,
+    "viento": 31,
+    "humedad": 3,
+    "luminosidad": 11,
+    "precipitaciones": 2
+  },
+  {
+    "nDia": 238,
+    "temperatura": 28,
+    "ICA": 46,
+    "viento": 59,
+    "humedad": 31,
+    "luminosidad": 9,
+    "precipitaciones": 1
+  },
+  {
+    "nDia": 239,
+    "temperatura": 41,
+    "ICA": 37,
+    "viento": 25,
+    "humedad": 16,
+    "luminosidad": 29,
+    "precipitaciones": 0
+  },
+  {
+    "nDia": 240,
+    "temperatura": 19,
+    "ICA": 48,
+    "viento": 109,
+    "humedad": 38,
+    "luminosidad": 65,
+    "precipitaciones": 18
+  },
+  {
+    "nDia": 241,
+    "temperatura": 19,
+    "ICA": 49,
+    "viento": 37,
+    "humedad": 27,
+    "luminosidad": 58,
+    "precipitaciones": 7
+  },
+  {
+    "nDia": 242,
+    "temperatura": 36,
+    "ICA": 58,
+    "viento": 84,
+    "humedad": 16,
+    "luminosidad": 10,
+    "precipitaciones": 9
+  },
+  {
+    "nDia": 243,
+    "temperatura": 31,
+    "ICA": 25,
+    "viento": 49,
+    "humedad": 5,
+    "luminosidad": 45,
+    "precipitaciones": 17
+  },
+  {
+    "nDia": 244,
+    "temperatura": 35,
+    "ICA": 43,
+    "viento": 79,
+    "humedad": 43,
+    "luminosidad": 35,
+    "precipitaciones": 11
+  },
+  {
+    "nDia": 245,
+    "temperatura": 28,
+    "ICA": 39,
+    "viento": 45,
+    "humedad": 60,
+    "luminosidad": 27,
+    "precipitaciones": 20
+  },
+  {
+    "nDia": 246,
+    "temperatura": 20,
+    "ICA": 27,
+    "viento": 20,
+    "humedad": 6,
+    "luminosidad": 13,
+    "precipitaciones": 12
+  },
+  {
+    "nDia": 247,
+    "temperatura": 37,
+    "ICA": 79,
+    "viento": 76,
+    "humedad": 17,
+    "luminosidad": 53,
+    "precipitaciones": 11
+  },
+  {
+    "nDia": 248,
+    "temperatura": 41,
+    "ICA": 24,
+    "viento": 115,
+    "humedad": 35,
+    "luminosidad": 54,
+    "precipitaciones": 20
+  },
+  {
+    "nDia": 249,
+    "temperatura": 31,
+    "ICA": 53,
+    "viento": 49,
+    "humedad": 18,
+    "luminosidad": 13,
+    "precipitaciones": 20
+  },
+  {
+    "nDia": 250,
+    "temperatura": 39,
+    "ICA": 38,
+    "viento": 85,
+    "humedad": 51,
+    "luminosidad": 34,
+    "precipitaciones": 15
+  },
+  {
+    "nDia": 251,
+    "temperatura": 44,
+    "ICA": 82,
+    "viento": 120,
+    "humedad": 67,
+    "luminosidad": 51,
+    "precipitaciones": 18
+  },
+  {
+    "nDia": 252,
+    "temperatura": 27,
+    "ICA": 63,
+    "viento": 77,
+    "humedad": 12,
+    "luminosidad": 45,
+    "precipitaciones": 2
+  },
+  {
+    "nDia": 253,
+    "temperatura": 34,
+    "ICA": 30,
+    "viento": 67,
+    "humedad": 68,
+    "luminosidad": 20,
+    "precipitaciones": 5
+  },
+  {
+    "nDia": 254,
+    "temperatura": 30,
+    "ICA": 27,
+    "viento": 66,
+    "humedad": 19,
+    "luminosidad": 59,
+    "precipitaciones": 13
+  },
+  {
+    "nDia": 255,
+    "temperatura": 34,
+    "ICA": 69,
+    "viento": 35,
+    "humedad": 38,
+    "luminosidad": 2,
+    "precipitaciones": 13
+  },
+  {
+    "nDia": 256,
+    "temperatura": 39,
+    "ICA": 32,
+    "viento": 17,
+    "humedad": 65,
+    "luminosidad": 14,
+    "precipitaciones": 5
+  },
+  {
+    "nDia": 257,
+    "temperatura": 23,
+    "ICA": 39,
+    "viento": 116,
+    "humedad": 13,
+    "luminosidad": 28,
+    "precipitaciones": 5
+  },
+  {
+    "nDia": 258,
+    "temperatura": 20,
+    "ICA": 77,
+    "viento": 106,
+    "humedad": 14,
+    "luminosidad": 23,
+    "precipitaciones": 10
+  },
+  {
+    "nDia": 259,
+    "temperatura": 37,
+    "ICA": 66,
+    "viento": 91,
+    "humedad": 58,
+    "luminosidad": 14,
+    "precipitaciones": 5
+  },
+  {
+    "nDia": 260,
+    "temperatura": 16,
+    "ICA": 25,
+    "viento": 25,
+    "humedad": 4,
+    "luminosidad": 2,
+    "precipitaciones": 12
+  },
+  {
+    "nDia": 261,
+    "temperatura": 37,
+    "ICA": 59,
+    "viento": 83,
+    "humedad": 46,
+    "luminosidad": 59,
+    "precipitaciones": 13
+  },
+  {
+    "nDia": 262,
+    "temperatura": 41,
+    "ICA": 63,
+    "viento": 41,
+    "humedad": 63,
+    "luminosidad": 24,
+    "precipitaciones": 18
+  },
+  {
+    "nDia": 263,
+    "temperatura": 29,
+    "ICA": 37,
+    "viento": 6,
+    "humedad": 22,
+    "luminosidad": 23,
+    "precipitaciones": 4
+  },
+  {
+    "nDia": 264,
+    "temperatura": 26,
+    "ICA": 29,
+    "viento": 5,
+    "humedad": 11,
+    "luminosidad": 10,
+    "precipitaciones": 5
+  },
+  {
+    "nDia": 265,
+    "temperatura": 31,
+    "ICA": 79,
+    "viento": 42,
+    "humedad": 23,
+    "luminosidad": 39,
+    "precipitaciones": 4
+  },
+  {
+    "nDia": 266,
+    "temperatura": 27,
+    "ICA": 76,
+    "viento": 61,
+    "humedad": 42,
+    "luminosidad": 9,
+    "precipitaciones": 9
+  },
+  {
+    "nDia": 267,
+    "temperatura": 27,
+    "ICA": 48,
+    "viento": 34,
+    "humedad": 26,
+    "luminosidad": 17,
+    "precipitaciones": 2
+  },
+  {
+    "nDia": 268,
+    "temperatura": 32,
+    "ICA": 74,
+    "viento": 14,
+    "humedad": 71,
+    "luminosidad": 52,
+    "precipitaciones": 2
+  },
+  {
+    "nDia": 269,
+    "temperatura": 27,
+    "ICA": 87,
+    "viento": 98,
+    "humedad": 9,
+    "luminosidad": 17,
+    "precipitaciones": 9
+  },
+  {
+    "nDia": 270,
+    "temperatura": 8,
+    "ICA": 30,
+    "viento": 15,
+    "humedad": 3,
+    "luminosidad": 3,
+    "precipitaciones": 17
+  },
+  {
+    "nDia": 271,
+    "temperatura": 10,
+    "ICA": 82,
+    "viento": 98,
+    "humedad": 30,
+    "luminosidad": 26,
+    "precipitaciones": 15
+  },
+  {
+    "nDia": 272,
+    "temperatura": 6,
+    "ICA": 67,
+    "viento": 100,
+    "humedad": 37,
+    "luminosidad": 7,
+    "precipitaciones": 17
+  },
+  {
+    "nDia": 273,
+    "temperatura": 6,
+    "ICA": 90,
+    "viento": 74,
+    "humedad": 6,
+    "luminosidad": 62,
+    "precipitaciones": 4
+  },
+  {
+    "nDia": 274,
+    "temperatura": 10,
+    "ICA": 42,
+    "viento": 119,
+    "humedad": 14,
+    "luminosidad": 24,
+    "precipitaciones": 19
+  },
+  {
+    "nDia": 275,
+    "temperatura": 27,
+    "ICA": 56,
+    "viento": 34,
+    "humedad": 34,
+    "luminosidad": 61,
+    "precipitaciones": 6
+  },
+  {
+    "nDia": 276,
+    "temperatura": 1,
+    "ICA": 39,
+    "viento": 67,
+    "humedad": 9,
+    "luminosidad": 66,
+    "precipitaciones": 20
+  },
+  {
+    "nDia": 277,
+    "temperatura": 15,
+    "ICA": 60,
+    "viento": 57,
+    "humedad": 36,
+    "luminosidad": 19,
+    "precipitaciones": 14
+  },
+  {
+    "nDia": 278,
+    "temperatura": 5,
+    "ICA": 25,
+    "viento": 116,
+    "humedad": 61,
+    "luminosidad": 26,
+    "precipitaciones": 13
+  },
+  {
+    "nDia": 279,
+    "temperatura": 1,
+    "ICA": 73,
+    "viento": 114,
+    "humedad": 47,
+    "luminosidad": 32,
+    "precipitaciones": 3
+  },
+  {
+    "nDia": 280,
+    "temperatura": 4,
+    "ICA": 30,
+    "viento": 71,
+    "humedad": 20,
+    "luminosidad": 29,
+    "precipitaciones": 2
+  },
+  {
+    "nDia": 281,
+    "temperatura": 5,
+    "ICA": 87,
+    "viento": 37,
+    "humedad": 70,
+    "luminosidad": 8,
+    "precipitaciones": 8
+  },
+  {
+    "nDia": 282,
+    "temperatura": 24,
+    "ICA": 77,
+    "viento": 30,
+    "humedad": 12,
+    "luminosidad": 53,
+    "precipitaciones": 20
+  },
+  {
+    "nDia": 283,
+    "temperatura": 13,
+    "ICA": 77,
+    "viento": 64,
+    "humedad": 24,
+    "luminosidad": 11,
+    "precipitaciones": 11
+  },
+  {
+    "nDia": 284,
+    "temperatura": 23,
+    "ICA": 29,
+    "viento": 64,
+    "humedad": 58,
+    "luminosidad": 53,
+    "precipitaciones": 8
+  },
+  {
+    "nDia": 285,
+    "temperatura": 3,
+    "ICA": 71,
+    "viento": 35,
+    "humedad": 24,
+    "luminosidad": 7,
+    "precipitaciones": 19
+  },
+  {
+    "nDia": 286,
+    "temperatura": 17,
+    "ICA": 70,
+    "viento": 38,
+    "humedad": 6,
+    "luminosidad": 2,
+    "precipitaciones": 6
+  },
+  {
+    "nDia": 287,
+    "temperatura": 18,
+    "ICA": 37,
+    "viento": 111,
+    "humedad": 26,
+    "luminosidad": 35,
+    "precipitaciones": 19
+  },
+  {
+    "nDia": 288,
+    "temperatura": 17,
+    "ICA": 53,
+    "viento": 10,
+    "humedad": 4,
+    "luminosidad": 36,
+    "precipitaciones": 16
+  },
+  {
+    "nDia": 289,
+    "temperatura": 5,
+    "ICA": 42,
+    "viento": 66,
+    "humedad": 5,
+    "luminosidad": 17,
+    "precipitaciones": 3
+  },
+  {
+    "nDia": 290,
+    "temperatura": 1,
+    "ICA": 21,
+    "viento": 10,
+    "humedad": 35,
+    "luminosidad": 11,
+    "precipitaciones": 16
+  },
+  {
+    "nDia": 291,
+    "temperatura": 15,
+    "ICA": 25,
+    "viento": 7,
+    "humedad": 16,
+    "luminosidad": 7,
+    "precipitaciones": 9
+  },
+  {
+    "nDia": 292,
+    "temperatura": 12,
+    "ICA": 75,
+    "viento": 35,
+    "humedad": 48,
+    "luminosidad": 48,
+    "precipitaciones": 10
+  },
+  {
+    "nDia": 293,
+    "temperatura": 15,
+    "ICA": 41,
+    "viento": 86,
+    "humedad": 26,
+    "luminosidad": 21,
+    "precipitaciones": 9
+  },
+  {
+    "nDia": 294,
+    "temperatura": 5,
+    "ICA": 63,
+    "viento": 44,
+    "humedad": 58,
+    "luminosidad": 61,
+    "precipitaciones": 1
+  },
+  {
+    "nDia": 295,
+    "temperatura": 16,
+    "ICA": 78,
+    "viento": 43,
+    "humedad": 67,
+    "luminosidad": 44,
+    "precipitaciones": 3
+  },
+  {
+    "nDia": 296,
+    "temperatura": 13,
+    "ICA": 75,
+    "viento": 13,
+    "humedad": 54,
+    "luminosidad": 4,
+    "precipitaciones": 13
+  },
+  {
+    "nDia": 297,
+    "temperatura": 1,
+    "ICA": 81,
+    "viento": 93,
+    "humedad": 33,
+    "luminosidad": 63,
+    "precipitaciones": 7
+  },
+  {
+    "nDia": 298,
+    "temperatura": 4,
+    "ICA": 37,
+    "viento": 32,
+    "humedad": 10,
+    "luminosidad": 14,
+    "precipitaciones": 18
+  },
+  {
+    "nDia": 299,
+    "temperatura": 15,
+    "ICA": 28,
+    "viento": 30,
+    "humedad": 14,
+    "luminosidad": 8,
+    "precipitaciones": 12
+  },
+  {
+    "nDia": 300,
+    "temperatura": 24,
+    "ICA": 54,
+    "viento": 23,
+    "humedad": 6,
+    "luminosidad": 40,
+    "precipitaciones": 18
+  },
+  {
+    "nDia": 301,
+    "temperatura": 11,
+    "ICA": 62,
+    "viento": 111,
+    "humedad": 65,
+    "luminosidad": 28,
+    "precipitaciones": 11
+  },
+  {
+    "nDia": 302,
+    "temperatura": 0,
+    "ICA": 73,
+    "viento": 93,
+    "humedad": 27,
+    "luminosidad": 11,
+    "precipitaciones": 2
+  },
+  {
+    "nDia": 303,
+    "temperatura": 22,
+    "ICA": 59,
+    "viento": 110,
+    "humedad": 65,
+    "luminosidad": 8,
+    "precipitaciones": 16
+  },
+  {
+    "nDia": 304,
+    "temperatura": 9,
+    "ICA": 51,
+    "viento": 72,
+    "humedad": 71,
+    "luminosidad": 53,
+    "precipitaciones": 14
+  },
+  {
+    "nDia": 305,
+    "temperatura": 23,
+    "ICA": 80,
+    "viento": 26,
+    "humedad": 13,
+    "luminosidad": 16,
+    "precipitaciones": 15
+  },
+  {
+    "nDia": 306,
+    "temperatura": 2,
+    "ICA": 77,
+    "viento": 35,
+    "humedad": 54,
+    "luminosidad": 19,
+    "precipitaciones": 2
+  },
+  {
+    "nDia": 307,
+    "temperatura": 23,
+    "ICA": 79,
+    "viento": 13,
+    "humedad": 38,
+    "luminosidad": 33,
+    "precipitaciones": 9
+  },
+  {
+    "nDia": 308,
+    "temperatura": 2,
+    "ICA": 63,
+    "viento": 16,
+    "humedad": 14,
+    "luminosidad": 60,
+    "precipitaciones": 13
+  },
+  {
+    "nDia": 309,
+    "temperatura": 13,
+    "ICA": 56,
+    "viento": 32,
+    "humedad": 47,
+    "luminosidad": 39,
+    "precipitaciones": 20
+  },
+  {
+    "nDia": 310,
+    "temperatura": 2,
+    "ICA": 63,
+    "viento": 99,
+    "humedad": 9,
+    "luminosidad": 41,
+    "precipitaciones": 13
+  },
+  {
+    "nDia": 311,
+    "temperatura": 8,
+    "ICA": 67,
+    "viento": 78,
+    "humedad": 68,
+    "luminosidad": 4,
+    "precipitaciones": 20
+  },
+  {
+    "nDia": 312,
+    "temperatura": 4,
+    "ICA": 58,
+    "viento": 49,
+    "humedad": 62,
+    "luminosidad": 56,
+    "precipitaciones": 15
+  },
+  {
+    "nDia": 313,
+    "temperatura": 24,
+    "ICA": 89,
+    "viento": 13,
+    "humedad": 52,
+    "luminosidad": 51,
+    "precipitaciones": 12
+  },
+  {
+    "nDia": 314,
+    "temperatura": 20,
+    "ICA": 74,
+    "viento": 59,
+    "humedad": 46,
+    "luminosidad": 61,
+    "precipitaciones": 6
+  },
+  {
+    "nDia": 315,
+    "temperatura": 6,
+    "ICA": 64,
+    "viento": 102,
+    "humedad": 12,
+    "luminosidad": 71,
+    "precipitaciones": 16
+  },
+  {
+    "nDia": 316,
+    "temperatura": 27,
+    "ICA": 57,
+    "viento": 55,
+    "humedad": 9,
+    "luminosidad": 67,
+    "precipitaciones": 8
+  },
+  {
+    "nDia": 317,
+    "temperatura": 24,
+    "ICA": 86,
+    "viento": 109,
+    "humedad": 69,
+    "luminosidad": 33,
+    "precipitaciones": 8
+  },
+  {
+    "nDia": 318,
+    "temperatura": 9,
+    "ICA": 86,
+    "viento": 35,
+    "humedad": 9,
+    "luminosidad": 46,
+    "precipitaciones": 2
+  },
+  {
+    "nDia": 319,
+    "temperatura": 9,
+    "ICA": 88,
+    "viento": 53,
+    "humedad": 17,
+    "luminosidad": 31,
+    "precipitaciones": 5
+  },
+  {
+    "nDia": 320,
+    "temperatura": 14,
+    "ICA": 58,
+    "viento": 54,
+    "humedad": 42,
+    "luminosidad": 31,
+    "precipitaciones": 3
+  },
+  {
+    "nDia": 321,
+    "temperatura": 8,
+    "ICA": 45,
+    "viento": 77,
+    "humedad": 14,
+    "luminosidad": 20,
+    "precipitaciones": 15
+  },
+  {
+    "nDia": 322,
+    "temperatura": 12,
+    "ICA": 20,
+    "viento": 16,
+    "humedad": 3,
+    "luminosidad": 14,
+    "precipitaciones": 3
+  },
+  {
+    "nDia": 323,
+    "temperatura": 14,
+    "ICA": 60,
+    "viento": 120,
+    "humedad": 58,
+    "luminosidad": 16,
+    "precipitaciones": 14
+  },
+  {
+    "nDia": 324,
+    "temperatura": 5,
+    "ICA": 69,
+    "viento": 16,
+    "humedad": 36,
+    "luminosidad": 55,
+    "precipitaciones": 16
+  },
+  {
+    "nDia": 325,
+    "temperatura": 0,
+    "ICA": 84,
+    "viento": 77,
+    "humedad": 5,
+    "luminosidad": 26,
+    "precipitaciones": 4
+  },
+  {
+    "nDia": 326,
+    "temperatura": 15,
+    "ICA": 90,
+    "viento": 32,
+    "humedad": 29,
+    "luminosidad": 32,
+    "precipitaciones": 13
+  },
+  {
+    "nDia": 327,
+    "temperatura": 18,
+    "ICA": 21,
+    "viento": 107,
+    "humedad": 23,
+    "luminosidad": 5,
+    "precipitaciones": 12
+  },
+  {
+    "nDia": 328,
+    "temperatura": 14,
+    "ICA": 42,
+    "viento": 96,
+    "humedad": 53,
+    "luminosidad": 13,
+    "precipitaciones": 6
+  },
+  {
+    "nDia": 329,
+    "temperatura": 2,
+    "ICA": 74,
+    "viento": 50,
+    "humedad": 30,
+    "luminosidad": 41,
+    "precipitaciones": 8
+  },
+  {
+    "nDia": 330,
+    "temperatura": 11,
+    "ICA": 28,
+    "viento": 30,
+    "humedad": 46,
+    "luminosidad": 11,
+    "precipitaciones": 13
+  },
+  {
+    "nDia": 331,
+    "temperatura": 8,
+    "ICA": 69,
+    "viento": 99,
+    "humedad": 40,
+    "luminosidad": 16,
+    "precipitaciones": 8
+  },
+  {
+    "nDia": 332,
+    "temperatura": 28,
+    "ICA": 62,
+    "viento": 79,
+    "humedad": 69,
+    "luminosidad": 25,
+    "precipitaciones": 20
+  },
+  {
+    "nDia": 333,
+    "temperatura": 6,
+    "ICA": 26,
+    "viento": 70,
+    "humedad": 18,
+    "luminosidad": 33,
+    "precipitaciones": 6
+  },
+  {
+    "nDia": 334,
+    "temperatura": 2,
+    "ICA": 52,
+    "viento": 77,
+    "humedad": 56,
+    "luminosidad": 40,
+    "precipitaciones": 6
+  },
+  {
+    "nDia": 335,
+    "temperatura": 25,
+    "ICA": 85,
+    "viento": 111,
+    "humedad": 6,
+    "luminosidad": 9,
+    "precipitaciones": 8
+  },
+  {
+    "nDia": 336,
+    "temperatura": 13,
+    "ICA": 27,
+    "viento": 119,
+    "humedad": 8,
+    "luminosidad": 3,
+    "precipitaciones": 3
+  },
+  {
+    "nDia": 337,
+    "temperatura": 12,
+    "ICA": 84,
+    "viento": 116,
+    "humedad": 36,
+    "luminosidad": 20,
+    "precipitaciones": 8
+  },
+  {
+    "nDia": 338,
+    "temperatura": 12,
+    "ICA": 84,
+    "viento": 67,
+    "humedad": 54,
+    "luminosidad": 23,
+    "precipitaciones": 18
+  },
+  {
+    "nDia": 339,
+    "temperatura": 1,
+    "ICA": 90,
+    "viento": 15,
+    "humedad": 47,
+    "luminosidad": 38,
+    "precipitaciones": 5
+  },
+  {
+    "nDia": 340,
+    "temperatura": 12,
+    "ICA": 74,
+    "viento": 69,
+    "humedad": 52,
+    "luminosidad": 12,
+    "precipitaciones": 13
+  },
+  {
+    "nDia": 341,
+    "temperatura": 6,
+    "ICA": 26,
+    "viento": 68,
+    "humedad": 41,
+    "luminosidad": 8,
+    "precipitaciones": 19
+  },
+  {
+    "nDia": 342,
+    "temperatura": 1,
+    "ICA": 29,
+    "viento": 76,
+    "humedad": 71,
+    "luminosidad": 4,
+    "precipitaciones": 3
+  },
+  {
+    "nDia": 343,
+    "temperatura": 7,
+    "ICA": 81,
+    "viento": 46,
+    "humedad": 23,
+    "luminosidad": 63,
+    "precipitaciones": 14
+  },
+  {
+    "nDia": 344,
+    "temperatura": 10,
+    "ICA": 85,
+    "viento": 92,
+    "humedad": 46,
+    "luminosidad": 50,
+    "precipitaciones": 6
+  },
+  {
+    "nDia": 345,
+    "temperatura": 29,
+    "ICA": 77,
+    "viento": 89,
+    "humedad": 56,
+    "luminosidad": 68,
+    "precipitaciones": 16
+  },
+  {
+    "nDia": 346,
+    "temperatura": 25,
+    "ICA": 85,
+    "viento": 16,
+    "humedad": 46,
+    "luminosidad": 37,
+    "precipitaciones": 8
+  },
+  {
+    "nDia": 347,
+    "temperatura": 14,
+    "ICA": 73,
+    "viento": 105,
+    "humedad": 40,
+    "luminosidad": 21,
+    "precipitaciones": 18
+  },
+  {
+    "nDia": 348,
+    "temperatura": 25,
+    "ICA": 36,
+    "viento": 34,
+    "humedad": 57,
+    "luminosidad": 41,
+    "precipitaciones": 7
+  },
+  {
+    "nDia": 349,
+    "temperatura": 13,
+    "ICA": 39,
+    "viento": 12,
+    "humedad": 19,
+    "luminosidad": 41,
+    "precipitaciones": 16
+  },
+  {
+    "nDia": 350,
+    "temperatura": 18,
+    "ICA": 79,
+    "viento": 88,
+    "humedad": 59,
+    "luminosidad": 64,
+    "precipitaciones": 12
+  },
+  {
+    "nDia": 351,
+    "temperatura": 13,
+    "ICA": 22,
+    "viento": 10,
+    "humedad": 19,
+    "luminosidad": 49,
+    "precipitaciones": 14
+  },
+  {
+    "nDia": 352,
+    "temperatura": 25,
+    "ICA": 65,
+    "viento": 116,
+    "humedad": 70,
+    "luminosidad": 8,
+    "precipitaciones": 8
+  },
+  {
+    "nDia": 353,
+    "temperatura": 5,
+    "ICA": 34,
+    "viento": 50,
+    "humedad": 17,
+    "luminosidad": 71,
+    "precipitaciones": 18
+  },
+  {
+    "nDia": 354,
+    "temperatura": 9,
+    "ICA": 76,
+    "viento": 9,
+    "humedad": 64,
+    "luminosidad": 34,
+    "precipitaciones": 18
+  },
+  {
+    "nDia": 355,
+    "temperatura": 9,
+    "ICA": 80,
+    "viento": 94,
+    "humedad": 6,
+    "luminosidad": 61,
+    "precipitaciones": 10
+  },
+  {
+    "nDia": 356,
+    "temperatura": 23,
+    "ICA": 90,
+    "viento": 44,
+    "humedad": 7,
+    "luminosidad": 61,
+    "precipitaciones": 3
+  },
+  {
+    "nDia": 357,
+    "temperatura": 16,
+    "ICA": 61,
+    "viento": 15,
+    "humedad": 12,
+    "luminosidad": 23,
+    "precipitaciones": 16
+  },
+  {
+    "nDia": 358,
+    "temperatura": 15,
+    "ICA": 89,
+    "viento": 108,
+    "humedad": 21,
+    "luminosidad": 30,
+    "precipitaciones": 16
+  },
+  {
+    "nDia": 359,
+    "temperatura": 6,
+    "ICA": 25,
+    "viento": 83,
+    "humedad": 54,
+    "luminosidad": 51,
+    "precipitaciones": 6
+  },
+  {
+    "nDia": 360,
+    "temperatura": 13,
+    "ICA": 70,
+    "viento": 16,
+    "humedad": 24,
+    "luminosidad": 5,
+    "precipitaciones": 12
+  },
+  {
+    "nDia": 361,
+    "temperatura": 18,
+    "ICA": 77,
+    "viento": 108,
+    "humedad": 17,
+    "luminosidad": 22,
+    "precipitaciones": 8
+  },
+  {
+    "nDia": 362,
+    "temperatura": 19,
+    "ICA": 67,
+    "viento": 35,
+    "humedad": 50,
+    "luminosidad": 61,
+    "precipitaciones": 9
+  },
+  {
+    "nDia": 363,
+    "temperatura": 13,
+    "ICA": 27,
+    "viento": 62,
+    "humedad": 53,
+    "luminosidad": 24,
+    "precipitaciones": 13
+  },
+  {
+    "nDia": 364,
+    "temperatura": 9,
+    "ICA": 73,
+    "viento": 104,
+    "humedad": 23,
+    "luminosidad": 1,
+    "precipitaciones": 2
+  },
+  {
+    "nDia": 365,
+    "temperatura": 9,
+    "ICA": 43,
+    "viento": 76,
+    "humedad": 70,
+    "luminosidad": 8,
+    "precipitaciones": 4
+  }
+]
