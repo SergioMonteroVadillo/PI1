@@ -13,6 +13,7 @@ public class Control {
 	
 	
 	private double tT = 0.0, tI = 0.0, tV = 0.0, tH = 0.0, tL = 0.0,tP = 0.0;
+	private String temperatura, ICA, viento, humedad, luminosidad, precipitaciones;
 	private int c = 0;
 	private int año;
 	private int inicio;
@@ -40,22 +41,30 @@ public class Control {
 			}
 		}
 		if (dias.size() != 0 ){
-			resultado = "\n\n\n\tTemperatura: "+String.format("%.2f",media(tT,c))+" C\n"
-					+ "\n\tICA: "+String.format("%.2f",media(tI,c))+"\n"
-					+ "\n\tViento: "+String.format("%.2f",media(tV, c))+" Kmh\n"
-					+ "\n\tHumedad: "+String.format("%.2f",media(tH, c))+" %\n"
-					+ "\n\tLuminosidad: "+String.format("%.2f",media(tL,c))+" %\n"
-					+ "\n\tPrecipitaciones: "+String.format("%.2f",media(tP,c))+" l*m2";
+			
+			this.temperatura = String.format("%.2f",media(tT,c))+"C";
+			this.ICA = String.format("%.2f",media(tI,c));
+			this.viento = String.format("%.2f",media(tV, c))+"Kmh";
+			this.humedad = String.format("%.2f",media(tH, c))+"%";
+			this.luminosidad = String.format("%.2f",media(tL,c))+"%";
+			this.precipitaciones = String.format("%.2f",media(tP,c))+"lm2";
 
-			System.out.println(resultado);
+			resultado = " ";
+
+
+			if (this.inicio > this.fin) {
+
+				resultado = "\n\n                     A ver cara polla, estas toton o que la fecha\n de inicio tine que ser menor quela fecha final, bobo!!!";
+			}
+
 		}else {
-			resultado = "\n\n\n\n\n\n                  El año " +this.año+ ", no ha sido simulado";
+			resultado = "\n\n                     El año " +this.año+ ", no ha sido simulado";
 			System.out.println(resultado);
 		}
-		
-		
+
+
 	}
-	
+
 	public double media(double a, double b) {
 		double med = (double) (a/b);
 		return med;
@@ -77,9 +86,36 @@ public class Control {
 		return dias;
 	}
 
+
+
+
+	public String getTemperatura() {
+		return temperatura;
+	}
+
+	public String getICA() {
+		return ICA;
+	}
+
+	public String getViento() {
+		return viento;
+	}
+
+	public String getHumedad() {
+		return humedad;
+	}
+
+	public String getLuminosidad() {
+		return luminosidad;
+	}
+
+	public String getPrecipitaciones() {
+		return precipitaciones;
+	}
+
 	@Override
 	public String toString() {
-		
+
 		return resultado;
 	}
 }

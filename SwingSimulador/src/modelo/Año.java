@@ -64,9 +64,9 @@ public class Año {
 			} catch (IOException e) {			
 				e.printStackTrace();
 			}
-			AñosEscritos = "\n\n\n\n\n Se ha simulado \n    el año "+this.año;
+			AñosEscritos = "\n                           Se ha simulado el año "+this.año;
 		}else {
-			AñosEscritos = "\n\n\n\n\n   El año " +this.año+ "\n ya fue simulada";
+			AñosEscritos = "\n                         El año " +this.año+ " ya fue simulado";
 		}
 		
 	}
