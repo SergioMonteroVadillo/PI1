@@ -64,7 +64,7 @@ public class ControladorVentana implements ActionListener{
 			
 			Año años = new Año();
 			this.ventana.getTextListado2().setText("\n"+años.toString());	
-			this.ventana.getTextListado1().setText(" ");
+			this.ventana.getTextListado1().setText("\n\n                          Solicitud realizada correctamente");
 		}
 		
 	}

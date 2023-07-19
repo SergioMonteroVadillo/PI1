@@ -19,7 +19,7 @@ public class Año {
 	private int año;
 	Vector<Dia>  dias = new Vector<Dia>();
 	Vector<String> AñosSimulados = new Vector<String>();
-	private String AñosEscritos = "";
+	private String AñosEscritos = "\n\n                     Solicitud realizada correctamente";
 	
 	File Años = new File("Años.txt");
 	
@@ -253,7 +253,7 @@ public class Año {
 			System.out.println(e.getMessage());
 		}
 		AñosSimulados.sort(null);
-		    
+		AñosEscritos = "";
 		for(String a : AñosSimulados) {
 			AñosEscritos += "         "+a+"\n";
 			if (a.equals(año+"")) {

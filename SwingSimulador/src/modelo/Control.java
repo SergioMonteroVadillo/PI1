@@ -49,12 +49,12 @@ public class Control {
 			this.luminosidad = String.format("%.2f",media(tL,c))+"%";
 			this.precipitaciones = String.format("%.2f",media(tP,c))+"lm2";
 
-			resultado = " ";
+			resultado = "\n\n                      Solicitud realizada correctamente";
 
 
 			if (this.inicio > this.fin) {
 
-				resultado = "\n\n                     A ver cara polla, estas toton o que la fecha\n de inicio tine que ser menor quela fecha final, bobo!!!";
+				resultado = "\n\n  La fecha de inicio tine que ser menor que la fecha final";
 			}
 
 		}else {
